@@ -2,3 +2,4 @@ storage_fee_per_mwh: 1.2
 inject_withdraw_cost: 0.8
 loss_pct: 0.015
 threshold_eur_mwh: 0.5
+
